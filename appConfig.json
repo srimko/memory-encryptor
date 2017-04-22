@@ -1,0 +1,4 @@
+{
+  "password": "md5('password')",
+  "key": "blablabla"
+}

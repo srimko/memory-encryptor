@@ -1,0 +1,5 @@
+node_modules
+*.html
+files/*
+files_encrypt/*
+.DS_Store
