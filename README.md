@@ -2,6 +2,16 @@
 
 Un petit script node pour chiffrer les notes et les souvenirs.
 
+## Installation
+
+cloner le repo
+
+`cd memory-encryptor`
+
+`npm install`
+
+## Commands
+
 # Tech
 
 Vorpal - CLI
